@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------------------------------------/
 | SVN $Id: WorkflowTaskUpdateAfter.js 6515 2012-03-16 18:15:38Z john.schomp $
-| Program : WorkflowTaskUpdateAfterV2.0.js
+| Program : WorkflowTaskUpdateAfterV3.0.js
 | Event   : WorkflowTaskUpdateAfter
 |
 | Usage   : Master Script by Accela.  See accompanying documentation and release notes.
